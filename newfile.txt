@@ -1,3 +1,5 @@
 This is Lebron`s newfile!
 
-now I will write some words!
+What is the difference between add, commit, and push?
+
+
