@@ -2,4 +2,4 @@ This is Lebron`s newfile!
 
 What is the difference between add, commit, and push?
 
-
+Basically git add  to submit the file to the temporary storage area of the warehouse; git commit "records changes to the repository" while git push "updates remote refs along with associated objects". So the first one is used in connection with your local repository, while the latter one is used to interact with a remote repository.
